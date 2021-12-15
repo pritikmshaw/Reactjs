@@ -1,0 +1,24 @@
+.menu-area{
+    height: 100px;
+    background-color:#950101;
+}
+
+.nav ul li{
+    display: inline-block;
+}
+
+.nav ul li a{
+    color: #fff;
+    font-family: redo!important;
+    font-size: 18px;
+    margin-left: 15px;
+    line-height: 90px;
+    padding: 3px 5px;
+    text-decoration: none;
+}
+
+.nav ul li a:hover{
+    background-color: #fff;
+    color: #950101;
+    transition: all 2s;
+}

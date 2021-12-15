@@ -1,0 +1,27 @@
+.footer{
+    height: auto;
+    padding-bottom: 10px;
+    background-color:#630000;
+}
+
+.footer .quik ul li{
+    color: #fff;
+}
+
+.footer .quik ul li a{
+    color: #fff;
+    font-family: redo;
+    text-decoration: none;
+}
+
+.footer .cont a{
+    display: block;
+    color: #fff;
+    padding-top: 5px;
+    text-decoration: none;
+}
+
+.footer .cont span{
+    display: block;
+    color: #fff;
+}
